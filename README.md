@@ -30,6 +30,7 @@ and navigation for the sake of think pieces to be produced.
 knaveHaven classification or (kHC) is a hybrid specialized-general classification system.
 
 knaveHaven can be considered specialized, under that it is oriented towards the documentation of knaveHaven experiencing the internet, via the cataloguing and organization of net artifacts as well as the creation of others under this haven.
+ALSO DUE TO ARBITRARY NATURE
 
 kHC also uses a generalized ethos due to the potential of online engagements falling under a universe of knowledge despite knaveHaven having specialized interests[2].
 
@@ -66,10 +67,42 @@ inspiration came from backspacing the colored two people holding hands emoji in 
 
 started swapping the 100s schedule around, to fit with a natural progression of subjects, by the same scheme of the main schedules. (i.e, INFRASTRUCTURE moved from 020 to 050 due to [5] being associated with [5]00 - SOCIETY, so [0]__ INFO concerning an aspect of [5] society or people interacting as a whole would make 050 - INFRASTRUCTURE )
 
+### 22.04.20
+
+Worked on A00, D00, and C00 schedules, referenced documents in different machines and locations; consolidated the train of thought from each.
+
+"RELIGION" was moved out of METAPHYSICAL into HEAVEN & EARTH. The reasoning was to not only make room for SIGNS-ICONS-ETC but also because religion covers the institutions, created by man rather than ephemera and documents having surrounding  properties of solely transcending matter and natural law.
+
+### 23.04.20
+
+TODO: look at that email with the classification system stuff
+
+also work on creating universal system design template
+
+### 29.04.20
+
+Our current direction with kHC is to be more simplified regarding the creation of sub-schedules.
+This is due to our stagnation in feeling the need to articulate said sub schedule into 3 layers of specificity, while also maintaining the presence of an article in another channel/ schedule.
+
+As much as possible we will try to restrain it to keywords ONLY, this way we don't run into
+the conundrum of putting a javascript tutorial in 043 WEB, and 880 PROGRAMMING
+
+As a result, we changed 880 PROGRAMMING to 880 - MECHANISMS since programming is not needed
+if 040 COMPUTER SCIENCE encompasses implementations of technology AND conceptual frameworks.
 
 
+30.04.20
+
+D58 COMPUTING was added to solve the problem of computers belonging in 040 Computer Science, and 080 Information technology.
+
+040 and 080 are strictly conceptual areas and implementations of technology, whereas
+D58 refers to set ups and configurations. This is important because the Computing being in the D00 schedule implies that the user is an agent in this subject.
 
 ## TABLES
+
+## SEQUENCING
+
+A feature of kHC is a very earnest attempt to have a gradual progression of area of knowledge flowing into another. This is in part of being inspired by Zin's pillars of knowledge as well as the principle of helpful sequence present in many classification systems. [^3]
 
 ## MAIN CLASSES
 
@@ -147,18 +180,28 @@ C - CONNECT
 
 ### SUB SCHEDULES
 
-000 - INFORMATION STUDIES  
+000 - INFORMATION STUDIES  [DONE?]
 
 - 00X - LIBRARY
   - CLASSIFICATION SYSTEMS
-  - ARCHIVING  
+  - 003 - ARCHIVING  
   - ORGANIZATION  
 - 010 - INSTRUCTION  
+ - 013 - GAMES AND LEARNING  
+ - 019 - EDUCATION 
 - 020 - NEW MEDIA  
 - 030 - GAME DEV
+  - 031 - FLASH DEV
 - 040 - COMPUTER SCI  
   - 041 - CRITICAL CODE STUDIES  
-  - 042 - COMPUTATIONAL THINKING  
+  - 042 - COMPUTATIONAL THINKING
+  - 043 - WEB DEV
+  - 044 - DATA STRUCTURES  
+  - 045 - PROGRAMMING LANGUAGES    
+  - 046 - HACKING   
+  - 047 - LOW LEVEL  
+  - 048 - PROGRAMMING LANGUAGES
+  - 049 - PROGRAMMER ETHNOGRAPHIES  
 - 050 - INFRASTRUCTURE  
 - 060 - HCI    
 - 070 - GAMES  
@@ -171,33 +214,34 @@ C - CONNECT
 - 10X - ANAMOLOUS  
 - 110 - ARTIFACT  
 - 120 - REALM  
-- 130 - RELIGION
+- 130 - MYTH
 - 140 - CONCEPT  
-- 150 - FIGURES  
+- 150 - SYMBOL  
 - 160 - BEASTIARY
-- 170 - MYTH  
+- 170 - ALTERNATE  
 - 180 - INTERNET
 - 190 - TEMPORAL  
 
 200 - THOUGHT
 
 - 20X - PSYCHOLOGY  
-- 210 - SYSTEMS THINKING  
-- 220 - LATERAL THINKING  
-- 230 - LEARNING  
+- 210 - SYSTEMS
+  - 218 - SYSTEMS ANALYSIS DESIGN  
+- 220 - LATERAL (THINKING, riddles n shit)  
+- 230 -   
 - 240 - PHILOSOPHY  
 - 250 - LEARNING  
-- 260 - MATHS  
-- 270 - LOGIC  
-- 280 -
-- 290 -  
+- 260 -   
+- 270 -   
+- 280 - MATHS (logic, discrete maths)
+- 290 - DISCOURSE (therapy accounts from tumblr, twitter sphere, mental wellness and discourse)
 
 300 - HEAVEN AND EARTH  
 
-- 30X - COSMOS  
-- 310 - SPACE
-- 320 - FORCES
-- 330 -  
+- 30X - SPACE    
+- 310 - FORCES
+- 320 -
+- 330 - RELIGION
 - 340 -
 - 350 - CULTURE
 - 360 - TRAVEL  
@@ -209,20 +253,23 @@ C - CONNECT
 
 - 410 ANIMALS  
 - 420 ENVIRONMENT  
+  - 422 SUSTAINABILITY
 - 430 GEOGRAPHY  
 
-500 - SOCIETY  
+500 - SOCIETY []  
 
-- SOCIOLOGY
-- COMMUNICATION
-- LANGUAGE  
-- CULTURES  
-- POLICY
-- POLITICS
-- OCCUPATION
-- EDUCATION
+- 50X - SOCIOLOGY
+- 510 - [VACANT]
+- 520 - LANGUAGE  (learning languages, linguistics)
+- 530 - LAW
+- 540 - COMMUNICATION
+- 550 - GROUPS
+- 560 - POLITICS
+- 570 - [VACANT]
+- 580 - OCCUPATION
+- 590 - CULTURES  
 
-600 - BODY AND MIND  
+600 - BODY AND MIND []
 
 - 60X - SPORTS
 - 610 - MARTIAL ARTS  
@@ -242,23 +289,27 @@ C - CONNECT
 
 
 
-700 - ARTS  
+700 - ARTS  []
 
 - 70_ - DESIGN (PROCESSES,MEDIUM, AESTHETICS )  
-- 710 - WRITING
-- 720 - MUSIC
-- 730 - VISUAL
-- 740 - FASHION
-- 750 - VIDEO  
+  - 705 - DIY
+- 710 - WRITING  
+- 720 - MUSIC  
+- 730 - VISUAL  
+  - 736 - ANIMATION
+  - GRAPHIC DESIGN  
+  - DRAWING
+  - 738 - WEBSITES
+- 740 - FASHION  
+- 750 - FILM    
 - 760 - CRAFT  
-- 770 -   
+- 770 - INDUSTRIAL DESIGN    
 - 780 - ARCHITECTURE
-- 770 -   
 - 790 - ART HISTORY
 
 
 
-800 - TECHNOLOGY
+800 - TECHNOLOGY []
 
 - 80X - FORCES  
 - 810 - STRUCTURES  
@@ -267,15 +318,84 @@ C - CONNECT
 - 840 - DISRUPTION
 - 850 - INTERFACE  
 - 860 - COMPUTING  
-- 870 - INDUSTRIAL  
-- 880 - PROGRAMMING
-- 890 - kghkhj
+- 870 - INDUSTRIAL DESIGN
+- 880 - MECHANISMS
+- 890 -
 
 900 - RECORD  
 
-A - ABSORB  (INSPIRATION, AESTHETICS, MOODBOARD)
-D - DO  (THINGS TO BUY, INTERACT WITH DO, ACTIVITY QUEUE)
-C - CONNECT (LEARNING MATERIAL)
+- 90X - RESOURCES
+  - 908 - TOOLS
+
+
+- 910 - DREAMS  
+- 920 - DIALOGUES  
+
+
+
+A00 - ABSORB  [DONE]
+
+- A10 - MUSIC  
+- A20 - READING   
+  - A23 - FICTION  
+  - A24 - ARTICLES  
+  - A25 - ACADEMIC (plublished books, as well as manifestos)    
+- A30 - COMIC  
+- A40 - TV  
+  - A41 - WESTERN ANIMATION  
+- A50 - FILM  
+- A60 - PORNOGRAPHY  
+- A70 - VIDEO ESSAYS  
+- A80 - SHOP  
+- A90 - FEEDS  
+  - A91 - Are.na feeds
+  - A92 - Academic (design and tech)
+  - A93 - Game developers
+  - A94 - Artists
+  - A95 - Media analysis
+  - A96 -
+  - A97 -  
+  - A98 -
+  - A99 -     
+
+
+
+D00 - DO   [DONE]
+
+- D10 - AUTODIDACTISM (COURSES, TUTORIALS)
+- D20 - CAREER  
+- D30 - PLACES TO VISIT
+- D40 - FOOD
+- D50 - HOME HACKS
+  - D57 - CRAFTS
+  - D58 COMPUTING
+- D60 - MARTIAL ARTS    
+- D70 - GAMES     
+- D80 - PORTFOLIO IDEAS    
+- D90 - QUEUE
+
+C00 - CONNECT  [DONE]
+
+- C10 - CODE
+- C20 - WRITING  
+- C30 - ID MODULES
+- C40 - ART  
+- C50 - PROSE
+- C60 - CRAFTS  
+- C70 - CONCEPT  
+- C80 - INTERACTIVE  
+- C90 - VIDEO ESSAYS
+
+
+
+
+A - ABSORB  (INSPIRATION, AESTHETICS, MOODBOARD)  
+D - DO  (THINGS TO BUY, INTERACT WITH DO, ACTIVITY QUEUE)  
+C - CONNECT (LEARNING MATERIAL)  
+
+
+
+
 
 
 
@@ -297,3 +417,19 @@ C - CONNECT (LEARNING MATERIAL)
 [1] knaveHaven is a multimedia production group that aims to motivate the independence, freeware, lo-fidelity, decentralized use information technology and information systems through design of technologies that share such ethos
 
 [2] Usually concerning human computer interaction, information systems, the intersection if IT and arts, game design as a framework for critical thought, pop media analyzation
+
+[3] : Inspired by this excerpt on the Bliss bibliographic classification system wikipedia page accessed 30.04.20
+
+"The four broad underlying policies of the BC system are:[4]
+
+alternative location
+brief, concise notation
+organizing knowledge according to academic expertise
+subjects moving gradually from topic to topic as they naturally related to one another.
+Bliss deliberately avoided the use of the decimal point because of his objection to Dewey's system. Instead he used capital and lower-case letters, numerals, and every typographical symbol available on his extensive and somewhat eccentric typewriter.
+
+Single letter codes refer to broad subject areas and further letters are added to refer to increasingly specific subdisciplines. For example, at Lancaster University[6]:
+
+T Economics
+TD Business Economics
+TDG Management of Industry"
