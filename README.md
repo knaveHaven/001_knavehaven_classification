@@ -188,7 +188,7 @@ C - CONNECT
   - ORGANIZATION  
 - 010 - INSTRUCTION  
  - 013 - GAMES AND LEARNING  
- - 019 - EDUCATION 
+ - 019 - EDUCATION
 - 020 - NEW MEDIA  
 - 030 - GAME DEV
   - 031 - FLASH DEV
@@ -228,11 +228,11 @@ C - CONNECT
 - 210 - SYSTEMS
   - 218 - SYSTEMS ANALYSIS DESIGN  
 - 220 - LATERAL (THINKING, riddles n shit)  
-- 230 -   
+- 230 - [VACANT]  
 - 240 - PHILOSOPHY  
 - 250 - LEARNING  
-- 260 -   
-- 270 -   
+- 260 - [VACANT]  
+- 270 - [VACANT]  
 - 280 - MATHS (logic, discrete maths)
 - 290 - DISCOURSE (therapy accounts from tumblr, twitter sphere, mental wellness and discourse)
 
@@ -265,7 +265,7 @@ C - CONNECT
 - 540 - COMMUNICATION
 - 550 - GROUPS
 - 560 - POLITICS
-- 570 - [VACANT]
+- 570 - ECONOMICS
 - 580 - OCCUPATION
 - 590 - CULTURES  
 
