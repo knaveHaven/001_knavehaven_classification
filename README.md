@@ -1,17 +1,15 @@
 # 001_knavehaven_classification
 
---- MASTHEAD ---
+--- MASTHEAD START ---
 
 Collaboration with @staoue  
 Technical Direction, consultation, and support by KEN BASCO | kenbas.co
 
 knaveHaven.net | are.na/knaveHaven
 
---- MASTHEAD ---
+--- MASTHEAD END ---
 
 ## INTRODUCTION / INSTRUCTION
-
-
 
 
 Classification system for the knavehaven archive. Schema for the purpose or sorting reference materials from online ventures of patrons of knaveHaven, as well as documentation of workspaces, projects, and other assets.
@@ -91,12 +89,21 @@ As a result, we changed 880 PROGRAMMING to 880 - MECHANISMS since programming is
 if 040 COMPUTER SCIENCE encompasses implementations of technology AND conceptual frameworks.
 
 
-30.04.20
+### 30.04.20
 
 D58 COMPUTING was added to solve the problem of computers belonging in 040 Computer Science, and 080 Information technology.
 
 040 and 080 are strictly conceptual areas and implementations of technology, whereas
 D58 refers to set ups and configurations. This is important because the Computing being in the D00 schedule implies that the user is an agent in this subject.
+
+### 13.05.20  
+
+Realized that it is unfair to exclude work (creations of knaveHaven) from knowledge repository through making the C and D alphanumericals
+exclusively for original content and notes. The purpose of are.na is to transform digital ephemera and the act of bookmarking into something  
+pro-active, so each channel shall act as intended by are.na's design: one part repository and one part workspace.  
+
+For easy access of original content, it shall be compiled within the 900s schedule via the connect feature in are.na, since it
+is RECORDing knaveHaven's activity.
 
 ## TABLES
 
@@ -132,33 +139,6 @@ D - ( DO )
 C - ( CONNECT )  
 
 
-[!] -   
-[@] -  
-[#] -  
-[$] -  
-[%] -  
-[^] -  
-[&] -  
-[?] -  
-[+] -  
-[~] -  
-[:] -  
-[|] -  
-[=] -  
-
-FORBIDDEN CHARS
-
-[ * ] -  
-[ \ ] -  
-[ `tic` ] -  
-['] -  
-[] -  
-
-
-
-
-
-
 ## SCHEDULES
 
 ### MAIN SCHEDULE  
@@ -183,13 +163,16 @@ C - CONNECT
 000 - INFORMATION STUDIES  [DONE?]
 
 - 00X - LIBRARY
-  - CLASSIFICATION SYSTEMS
+  - 001 - LIBRARY  
+  - 002 CLASSIFICATION SYSTEMS
   - 003 - ARCHIVING  
   - ORGANIZATION  
 - 010 - INSTRUCTION  
  - 013 - GAMES AND LEARNING  
  - 019 - EDUCATION
 - 020 - NEW MEDIA  
+  - 021 - COMMODIFICATION OF THE SELF
+  - 022 - INTERESTING ARE.NA CHANNELS  
 - 030 - GAME DEV
   - 031 - FLASH DEV
 - 040 - COMPUTER SCI  
@@ -207,6 +190,7 @@ C - CONNECT
 - 070 - GAMES  
 - 080 - INFORMATION TECHNOLOGY  
 - 090 - DOCUMENTATION  
+  - 091 BIBLIOGRAPHY SCHEMA
 
 
 100 - METAPHYSICAL  
@@ -234,6 +218,7 @@ C - CONNECT
 - 260 - [VACANT]  
 - 270 - [VACANT]  
 - 280 - MATHS (logic, discrete maths)
+  - 281 - RESEARCH METHODS  
 - 290 - DISCOURSE (therapy accounts from tumblr, twitter sphere, mental wellness and discourse)
 
 300 - HEAVEN AND EARTH  
@@ -258,31 +243,26 @@ C - CONNECT
 
 500 - SOCIETY []  
 
-- 50X - SOCIOLOGY
-- 510 - [VACANT]
+- 510 - SOCIOLOGY
 - 520 - LANGUAGE  (learning languages, linguistics)
 - 530 - LAW
 - 540 - COMMUNICATION
 - 550 - GROUPS
 - 560 - POLITICS
-- 570 - ECONOMICS
+- 570 - HOME ECONOMICS
 - 580 - OCCUPATION
 - 590 - CULTURES  
 
 600 - BODY AND MIND []
 
-- 60X - SPORTS
-- 610 - MARTIAL ARTS  
-- 620 - WELLNESS
- - decluttering
- - meditation
- - nutrition
+- 60X -
+- 610 - ONEIRNAUTICS
+- 620 - MINDFULNESS
 - 630 - MOVEMENT
 - 640 - dance  
-- 650 - ONEIRNAUTICS
- - dreaming
- - tulpamancy       
-- 660 -  
+- 650 - SPORTS
+        - 656 - BOFFER
+- 660 - MARTIAL ARTS  
 - 670 -  
 - 680 -  
 - 690 -  
@@ -297,7 +277,7 @@ C - CONNECT
 - 720 - MUSIC  
 - 730 - VISUAL  
   - 736 - ANIMATION
-  - GRAPHIC DESIGN  
+  - 733 - GRAPHIC DESIGN  
   - DRAWING
   - 738 - WEBSITES
 - 740 - FASHION  
