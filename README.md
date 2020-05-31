@@ -1,4 +1,4 @@
-# 001_knavehaven_classification
+# 001 kHCc:CON (knaveHaven Connection Collection Content Ontology Nomenclature) | kH cc: net (knaveHaven connection collection nomenclatorial epistemelogical technique)
 
 --- MASTHEAD START ---
 
@@ -28,7 +28,7 @@ and navigation for the sake of think pieces to be produced.
 knaveHaven classification or (kHC) is a hybrid specialized-general classification system.
 
 knaveHaven can be considered specialized, under that it is oriented towards the documentation of knaveHaven experiencing the internet, via the cataloguing and organization of net artifacts as well as the creation of others under this haven.
-ALSO DUE TO ARBITRARY NATURE
+ALSO DUE TO ARBITRARY NATURE (it is restricted to knaveHaven's worldview)
 
 kHC also uses a generalized ethos due to the potential of online engagements falling under a universe of knowledge despite knaveHaven having specialized interests[2].
 
@@ -244,7 +244,7 @@ C - CONNECT
 500 - SOCIETY []  
 
 - 510 - SOCIOLOGY
-- 520 - LANGUAGE  (learning languages, linguistics)
+- 520 - LANGUAGE  
 - 530 - LAW
 - 540 - COMMUNICATION
 - 550 - GROUPS
@@ -259,9 +259,10 @@ C - CONNECT
 - 610 - ONEIRNAUTICS
 - 620 - MINDFULNESS
 - 630 - MOVEMENT
+  - 636 - PARKOUR  
 - 640 - dance  
 - 650 - SPORTS
-        - 656 - BOFFER
+    - 656 - BOFFER
 - 660 - MARTIAL ARTS  
 - 670 -  
 - 680 -  
@@ -271,7 +272,7 @@ C - CONNECT
 
 700 - ARTS  []
 
-- 70_ - DESIGN (PROCESSES,MEDIUM, AESTHETICS )  
+- 70_ - CONCEPT (PROCESSES,MEDIUM, AESTHETICS )  
   - 705 - DIY
 - 710 - WRITING  
 - 720 - MUSIC  
@@ -291,13 +292,13 @@ C - CONNECT
 
 800 - TECHNOLOGY []
 
-- 80X - FORCES  
+
 - 810 - STRUCTURES  
 - 820 - TRANSPORT  
 - 830 - MEDICAL  
 - 840 - DISRUPTION
-- 850 - INTERFACE  
-- 860 - COMPUTING  
+- 850 - CYBERNETICS  
+- 860 -
 - 870 - INDUSTRIAL DESIGN
 - 880 - MECHANISMS
 - 890 -
@@ -342,10 +343,10 @@ A00 - ABSORB  [DONE]
 
 D00 - DO   [DONE]
 
-- D10 - AUTODIDACTISM (COURSES, TUTORIALS)
+- D10 - TOOLS
 - D20 - CAREER  
-- D30 - PLACES TO VISIT
-- D40 - FOOD
+- D30 - TRAVEL
+- D40 - RECIPE
 - D50 - HOME HACKS
   - D57 - CRAFTS
   - D58 COMPUTING
@@ -359,7 +360,7 @@ C00 - CONNECT  [DONE]
 - C10 - CODE
 - C20 - WRITING  
 - C30 - ID MODULES
-- C40 - ART  
+- C40 - VISUAL ART  
 - C50 - PROSE
 - C60 - CRAFTS  
 - C70 - CONCEPT  
@@ -368,14 +369,16 @@ C00 - CONNECT  [DONE]
 
 
 
+(ADC high level)
+A - ABSORB/consume media for leisure, absorbing is perogative
+D - DO  (THINGS TO BUY, INTERACT WITH DO, ACTIVITY QUEUE)   
+C - Collections of things created by knaveHaven
 
-A - ABSORB  (INSPIRATION, AESTHETICS, MOODBOARD)  
-D - DO  (THINGS TO BUY, INTERACT WITH DO, ACTIVITY QUEUE)  
+(ADC LOW LEVEL)
+
+A - ABSORB  (INSPIRATION, AESTHETICS, MOODBOARD) for domain of knowledge
+D -
 C - CONNECT (LEARNING MATERIAL)  
-
-
-
-
 
 
 
