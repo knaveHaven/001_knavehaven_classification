@@ -1,4 +1,4 @@
-# 001 kHCc:CON (knaveHaven Connection Collection Content Ontology Nomenclature) | kH cc: net (knaveHaven connection collection nomenclatorial epistemelogical technique)
+# kHCc:CON (knaveHaven Connection Collection Content Ontology Nomenclature) | kH cc: net (knaveHaven connection collection nomenclatorial epistemelogical technique)
 
 --- MASTHEAD START ---
 
